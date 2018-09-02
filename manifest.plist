@@ -11,21 +11,21 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.50.213/test.ipa</string>
+                    <string>http://localhost/app.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>io.seedlab.pricetag</string>
+                <string>com.starred.app</string>
                 <key>bundle-version</key>
-                <string>1.1</string>
+                <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>releaseNotes</key>
                 <string>v1</string>
                 <key>title</key>
-                <string>App名称</string>
+                <string>App</string>
             </dict>
         </dict>
     </array>
